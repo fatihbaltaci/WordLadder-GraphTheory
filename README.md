@@ -31,5 +31,5 @@ cook pour <br />
 
 ```
 javac Main.java
-java Main.java <dictionary.txt> <input.txt> <output.txt>
+java Main <dictionary.txt> <input.txt> <output.txt>
 ```
